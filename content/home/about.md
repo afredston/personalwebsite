@@ -26,7 +26,7 @@ weight = 5
 
 # About Me
 
-I'm an ecologist using data science and synthetic approaches to address interdisciplinary environmental problems. Ultimately, I aim to improve how humans understand, manage, and use nature. Most of my [research](({{< ref "home/research.md" >}})) investigates how human activities alter biogeographic patterns and ecological processes. 
+I'm an ecologist using data science and synthetic approaches to address interdisciplinary environmental problems. Ultimately, I aim to improve how humans understand, manage, and use nature. Most of my [research](({{< ref "content/home/research.md" >}})) investigates how human activities alter biogeographic patterns and ecological processes. 
 
 I'm also passionate about science communication and open science. I learned most of my R coding skills from the [eco-data-science](https://eco-data-science.github.io/) group, which promotes open science and knowledge sharing in the Santa Barbara environmental science community. I'm still learning, but I've also begun teaching introductory workshops on [GitHub](https://www.github.com/) and the [tidyverse](https://www.tidyverse.org/). 
 
