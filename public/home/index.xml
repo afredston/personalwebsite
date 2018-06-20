@@ -25,10 +25,11 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Under construction</description>
+      <description>About Me I&amp;rsquo;m an ecologist using data science and synthetic approaches to address interdisciplinary environmental problems. Ultimately, I aim to improve how humans understand, manage, and use nature. Most of my research investigates how human activities alter biogeographic patterns and ecological processes.
+I&amp;rsquo;m also passionate about science communication and open science. I learned most of my R coding skills from the eco-data-science group, which promotes open science and knowledge sharing in the Santa Barbara environmental science community.</description>
     </item>
     
     <item>
@@ -77,14 +78,13 @@
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Research Interests</title>
+      <link>/home/research/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <guid>/home/research/</guid>
+      <description>I study ecological processes and biogeographic patterns, in the context of human impacts. My work falls into three main areas:
+Biogeography and Climate Change Species around the globe are shifting their ranges in response to climate change. However, many ecological and environmental processes besides climate also influence species distributions. Without understanding these other processes and how they interact with another and with climate, it’s difficult to predict range shifts and make management recommendations.</description>
     </item>
     
     <item>
