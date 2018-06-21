@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jun 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Academic</title>
-      <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
-    </item>
     
     <item>
       <title></title>
@@ -28,53 +18,17 @@
       <pubDate>Wed, 20 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>/home/about/</guid>
-      <description>About Me I&amp;rsquo;m an ecologist using data science and synthetic approaches to address interdisciplinary environmental problems. Ultimately, I aim to improve how humans understand, manage, and use nature. Most of my research investigates how human activities alter biogeographic patterns and ecological processes.
-I&amp;rsquo;m also passionate about science communication and open science. I learned most of my R coding skills from the eco-data-science group, which promotes open science and knowledge sharing in the Santa Barbara environmental science community.</description>
+      <description>About Me I&amp;rsquo;m an ecologist using data science and synthetic approaches to solve interdisciplinary environmental problems. Ultimately, I aim to improve how humans understand, manage, and use nature. Most of my research investigates how human activities alter biogeographic patterns and ecological processes.
+I&amp;rsquo;m also passionate about science communication and open science. I learned most of my R coding skills from the eco-data-science group, a data science study group that facilitates knowledge sharing within the Santa Barbara environmental community.</description>
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
+      <title>Publications and CV</title>
       <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/projects/</guid>
-      <description></description>
+      <description>My publications are listed on my Google Scholar and ResearchGate pages. Feel free to contact me for PDFs of any publications. You can download my CV here.</description>
     </item>
     
     <item>
@@ -85,15 +39,6 @@ I&amp;rsquo;m also passionate about science communication and open science. I le
       <guid>/home/research/</guid>
       <description>I study ecological processes and biogeographic patterns, in the context of human impacts. My work falls into three main areas:
 Biogeography and Climate Change Species around the globe are shifting their ranges in response to climate change. However, many ecological and environmental processes besides climate also influence species distributions. Without understanding these other processes and how they interact with another and with climate, it’s difficult to predict range shifts and make management recommendations.</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/home/tags/</guid>
-      <description></description>
     </item>
     
     <item>
