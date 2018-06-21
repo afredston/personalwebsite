@@ -260,12 +260,12 @@ enableGitInfo = false
 [[menu.main]]
   name = "Research"
   url = "#research"
-  weight = 2
+  weight = 3
   
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Contact"
