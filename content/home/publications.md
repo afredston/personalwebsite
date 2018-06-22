@@ -35,6 +35,6 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-My publications are listed on my [Google Scholar](https://scholar.google.com/citations?user=zStqHYEAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Alexa_Fredston-Hermann2/) pages. Feel free to contact me for PDFs of any publications. You can download my CV {{% staticref "files/cv.pdf" %}}here.{{% /staticref %}}
+My publications are listed on my [Google Scholar](https://scholar.google.com/citations?user=zStqHYEAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Alexa_Fredston-Hermann2/) pages. Feel free to contact me for PDFs of any publications. You can download my CV {{% staticref "files/websitecv.pdf" %}}here.{{% /staticref %}}
 
 
