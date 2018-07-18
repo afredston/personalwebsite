@@ -28,7 +28,7 @@ weight = 5
 
 I'm an ecologist using data science and synthetic approaches to solve interdisciplinary environmental problems. Ultimately, I aim to improve how humans understand, manage, and use nature. Most of my [research](http://www.alexafredstonhermann.com/#research) investigates how human activities alter biogeographic patterns and ecological processes. 
 
-I'm also passionate about science communication and open science. I learned most of my R coding skills from the [eco-data-science](https://eco-data-science.github.io/) group, a data science study group that facilitates knowledge sharing within the Santa Barbara environmental community. I've also begun teaching introductory workshops on [GitHub](https://github.com/afredstonhermann/github-intro-2) and [data wrangling with the Tidyverse](https://github.com/afredstonhermann/tidyverse_tutorial). 
+I'm also passionate about science communication and open science. I learned most of my R coding skills from  [eco-data-science](https://eco-data-science.github.io/), a data science study group that facilitates knowledge sharing within the Santa Barbara environmental community. I've also begun teaching introductory workshops on [GitHub](https://github.com/afredstonhermann/github-intro-2) and [data wrangling with the Tidyverse](https://github.com/afredstonhermann/tidyverse_tutorial). 
 
 Before starting my PhD, I worked for two years at the [Environmental Defense Fund](https://www.edf.org/) as a High Meadows Fellow. I've also served on a [Science for Nature and People Partnership](https://snappartnership.net/) working group. Although research is now my focus, I am continually striving to translate science into action. 
 

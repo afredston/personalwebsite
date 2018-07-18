@@ -19,7 +19,7 @@ I study ecological processes and biogeographic patterns, in the context of human
 
 ## Biogeography and Climate Change 
 
-Species around the globe are shifting their ranges in response to climate change. However, many ecological and environmental processes besides climate also influence species distributions. Without understanding these other processes and how they interact with another and with climate, it’s difficult to predict range shifts and make management recommendations. My research aims to advance our mechanistic understanding of processes that govern range edges in the Anthropocene. Currently, I am exploring whether life history traits related to mobility and dispersal influence how marine species track climate change, via an empirical analysis of large-scale time series data. I have also studied the implications of climate-related range shifts for marine protected area design. 
+Species around the globe are shifting their ranges in response to climate change. However, many ecological and environmental processes besides climate also influence species distributions. Without understanding these other processes and how they interact with one another and with climate, it’s difficult to predict range shifts and make management recommendations. My research aims to advance our mechanistic understanding of processes that govern species distributions in the Anthropocene. Currently, I am exploring how range edges of marine species are influenced by temperature, abundance, species traits, and other environmental drivers, via an empirical analysis of large-scale time series data. I have also studied the implications of climate-related range shifts for marine protected area design. 
 
 ## Coastal Ecosystems and Runoff
 
