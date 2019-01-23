@@ -32,4 +32,4 @@ I'm also passionate about science communication and open science. I learned most
 
 Before starting my PhD, I worked for two years at the [Environmental Defense Fund](https://www.edf.org/) as a High Meadows Fellow. I've also served on a [Science for Nature and People Partnership](https://snappartnership.net/) working group. Although research is now my focus, I am continually striving to translate science into action. 
 
-I live in Santa Barbara, California. When not in Bren Hall, I can usually be found on the beach, at the farmer's market, or volunteering to provide medical services to the underserved in our community. 
+When I'm not at my desk, I can usually be found at the farmer's market or volunteering in my community. I am finishing my PhD remotely from Ithaca, NY. I'm planning to visit colleagues at a number of universities in the Northeast in 2019 (and to return to Santa Barbara frequently), so please get in touch if you're in the area. 
