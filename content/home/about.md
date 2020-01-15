@@ -18,19 +18,20 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "BA, Ecology and Evolutionary Biology"
-  institution = "Princeton University"
-  year = 2012
-[[education.courses]]
   course = "PhD, Environmental Science and Management"
   institution = "Bren School, University of California Santa Barbara"
   year = 2020
+[[education.courses]]
+  course = "BA, Ecology and Evolutionary Biology"
+  institution = "Princeton University"
+  year = 2012
+
   
 +++
 
 # About Me
 
-I'm a quantitative ecologist using data science, modeling, and synthetic approaches to solve interdisciplinary environmental problems. Ultimately, I aim to improve how humans understand, manage, and use nature. Most of my [research](http://www.alexafredstonhermann.com/#research) investigates how human activities alter biogeographic patterns and ecological processes. I am particularly interested in whether, why, and how fast species are shifting their spatial distributions in response to climate change, and the consequences for natural resource management and conservation. I'm starting a postdoctoral position in the [Pinsky Lab at Rutgers University](http://pinsky.marine.rutgers.edu/) in March.
+I'm a quantitative ecologist using data science, modeling, and synthetic approaches to solve interdisciplinary environmental problems. Ultimately, I aim to improve how humans understand, manage, and use nature. Most of my [research](http://www.alexafredstonhermann.com/#research) investigates how human activities alter biogeographic patterns and ecological processes. I am particularly interested in whether, why, and how fast species are shifting their spatial distributions in response to climate change, and the consequences for natural resource management and conservation. 
 
 Although research is my focus, I am continually striving to translate science into action. In my postdoc position supported by the [Lenfest Ocean Program](https://www.lenfestocean.org/en), I'm collaborating with managers and fishers through the [Mid-Atlantic Fisheries Management Council](http://www.mafmc.org/). Before starting my PhD, I worked for two years at the [Environmental Defense Fund](https://www.edf.org/) as a High Meadows Fellow. I've also served on a [Science for Nature and People Partnership](https://snappartnership.net/) working group. 
 
