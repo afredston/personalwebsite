@@ -10,7 +10,7 @@ title = "Alexa Fredston-Hermann"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2020"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -55,11 +55,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Alexa Fredston-Hermann"
-  role = "Ph.D. Candidate"
+  role = ""
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Bren School, UC Santa Barbara", url = "https://www.bren.ucsb.edu/" } ]
+  organizations = [ { name = "Pinsky Lab, Rutgers University (starting March)", url = "https://www.bren.ucsb.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
