@@ -31,7 +31,7 @@ weight = 5
 
 # About Me
 
-I'm a quantitative ecologist using data science, modeling, and synthetic approaches to solve interdisciplinary environmental problems. Ultimately, I aim to improve how humans understand, manage, and use nature. Most of my [research](http://www.alexafredston.com/#research) investigates how human activities alter biogeographic patterns and ecological processes. I am particularly interested in whether, why, and how fast species are shifting their spatial distributions in response to climate change, and the consequences for natural resource management and conservation. 
+I'm a quantitative ecologist using data science, modeling, and synthetic approaches to solve interdisciplinary environmental problems. Ultimately, I aim to improve how humans understand, manage, and use nature. Most of my [research](http://www.alexafredston.com/#research) investigates how human activities alter biogeographic patterns and ecological processes. I am particularly interested in whether, why, and how fast species are shifting their spatial distributions in response to climate change, and the consequences for nature and for people. 
 
 Although research is my focus, I am continually striving to translate science into action. In my postdoc position supported by the [Lenfest Ocean Program](https://www.lenfestocean.org/en), I'm collaborating with managers and fishers through the [Mid-Atlantic Fisheries Management Council](http://www.mafmc.org/). Before starting my PhD, I worked for two years at the [Environmental Defense Fund](https://www.edf.org/) as a High Meadows Fellow. I've also served on a [Science for Nature and People Partnership](https://snappartnership.net/) working group. 
 
