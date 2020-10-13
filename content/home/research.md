@@ -15,7 +15,7 @@ weight = 30
 
 +++
 
-I study ecological processes and biogeographic patterns, in the context of human impacts. My work falls into three main areas:
+I study ecological processes and biogeographical patterns, in the context of human impacts. My work falls into three main areas:
 
 ## Biogeography and Climate Change 
 
