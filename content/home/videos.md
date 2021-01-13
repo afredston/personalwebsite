@@ -14,7 +14,7 @@ subtitle = ""
 weight = 40
 
 +++
-[*Understanding and predicting Anthropocene range dynamics in the sea*, Ecology, Evolution, and Marine Biology, UCSB (January 11, 2021)](https://youtu.be/DURMHobzJOs)
+[*Understanding and predicting Anthropocene range dynamics in the sea*, Ecology, Evolution, and Marine Biology, UCSB (January 11, 2021)](https://youtu.be/-1II97FXJ5E)
 
 [*Realized thermal niche tracking at range limits of North American marine species,* Ecological Society of America 2020 Meeting](https://youtu.be/sgM0_-8HJlQ)
 
