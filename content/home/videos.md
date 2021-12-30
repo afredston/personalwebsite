@@ -14,6 +14,8 @@ subtitle = ""
 weight = 40
 
 +++
+[*Process-based forecasting of near-term range shifts in marine species,* American Fisheries Society 2021 Meeting](https://youtu.be/hx0kgF_uKKY)
+
 [*R for the Planet*, New York R Conference (September 9, 2021)](https://www.youtube.com/watch?v=S7JGflYoMh0)
 
 [*R for the Planet*, R-Ladies Amsterdam (May 4, 2021)](https://www.youtube.com/watch?v=OhxAISoi2zE)
