@@ -273,7 +273,7 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Join The Lab"
+  name = "Join the Lab"
   url = "#join"
   weight = 5
 
