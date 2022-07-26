@@ -10,7 +10,7 @@ title = "Alexa Fredston"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2020"
+copyright = "&copy; 2022"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -275,6 +275,11 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
+  weight = 7
+  
+[[menu.main]]
+  name = "Join The Lab"
+  url = "#join"
   weight = 6
 
 # Taxonomies.
