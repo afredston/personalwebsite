@@ -27,3 +27,5 @@ I am always open to co-developing proposals for fellowships and other externally
 1. A short summary (one paragraph or less) of a project you are interested in working on. (This is not binding in any way, but will give me a sense of what you are excited about and how you think. You can alternatively send a research proposal you've written, like an NSF GRFP application.)
 
 1. Your current CV and (for prospective undergrad or grad students) unofficial transcripts. 
+
+I aim to respond to every email from a prospective lab member. However, I receive a ton of email every day, and occasionally I miss things. If you don't get a response (or out-of-office reply) from me within a week or two, please feel free to email again. 
