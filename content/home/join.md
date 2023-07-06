@@ -23,13 +23,13 @@ I am always open to co-developing proposals for fellowships and other externally
 
 Many lists exist of national fellowships; you may find some relevant graduate fellowships on this [University of Miami page](https://graduate.rsmas.miami.edu/phd-and-ms-programs/ocean-sciences/national-fellowships-awards/index.html), some postdoc fellowships on this [University of Minnesota page](https://cbs.umn.edu/academics/departments/eeb/postdocs/opportunities), and both on [Dr. Jurgens' page](https://jurgenslab.com/grad-postdoc-funding/). Johns Hopkins University also maintains lists of [graduate](https://research.jhu.edu/rdt/funding-opportunities/graduate/) and [postdoctoral](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/) fellowships for all research fields. 
 
-I may also have additional funding for students and postdocs to join the lab. Prospective lab members should email me directly. I encourage you to include the following in your email:
+I may also have additional funding for students and postdocs to join the lab. All prospective lab members should email me directly. I encourage you to include the following in your email:
 
 1. A short summary (one paragraph or less) of your background and career goals.
-
 1. A short summary (one paragraph or less) of why you want to come to UCSC, and to my lab specifically. 
 1. A short summary (one paragraph or less) of a project you are interested in working on. (This is not binding in any way, but will give me a sense of what you are excited about and how you think. You can alternatively send a research proposal you've written, like an NSF GRFP application.)
-
 1. Your current CV and (for prospective undergrad or grad students) unofficial transcripts. 
+
+This great [guide to emailing prospective PhD advisers](https://doi.org/10.1038/d41586-023-00786-8) by Dr. Hart at UNSW is worth reading, too (and if it's paywalled for you just let me know and I will send you a copy).
 
 I aim to respond to every email from a prospective lab member. However, I receive a ton of email every day, and occasionally I miss things. If you don't get a response (or out-of-office reply) from me within a week or two, please feel free to email again. 
