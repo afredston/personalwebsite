@@ -15,27 +15,21 @@ weight = 30
 
 +++
 
-I study ecological processes and biogeographical patterns, in the context of human impacts. While I focus on oceans, I often test concepts developed on land in marine systems; I believe that working across realms is crucial for understanding the universality of ecological theories and conservation approaches. The core themes of my research program are described below. 
+I study ecological processes and biogeographical patterns, in the context of human impacts. While I focus on oceans, I often test concepts developed on land in marine systems; I think working across realms helps to understand the universality of ecological theories and conservation approaches. The core themes of my research program are described below. 
 
-## Climate-Related Range Shifts 
+## Climate Biogeography
 
-Species around the globe are shifting their ranges in response to climate change, reshuffling ecosystems and challenging paradigms of natural management. Yet species' range shifts are highly variable, perhaps because many ecological and environmental processes besides climate also influence species distributions. Without understanding these other processes and how they interact with one another and with climate, it’s difficult to predict range shifts and make management recommendations. My goal is to advance our mechanistic understanding of processes that govern species distributions in the Anthropocene, and consequently, our ability to forecast those distributions. Some specific past, present, and future research topics in this vein include:
+Species around the globe are shifting their ranges in response to climate change, reshuffling ecosystems and challenging paradigms of natural management. Yet species' range shifts are highly variable, perhaps because many ecological and environmental processes besides climate also influence species distributions. Without understanding these other processes and how they interact with one another and with climate, it’s difficult to predict range shifts and make management recommendations. I work to advance our mechanistic understanding of processes that govern species distributions in the Anthropocene, and consequently, our ability to forecast those distributions. Some specific past, present, and future research topics in this vein include:
 
-* The degree to which range edges of temperate marine species are tracking temperature change
+* The degree to which range edges of temperate marine fishes are tracking temperature change ([Fredston-Hermann *et al.* 2020](https://doi.org/10.1111/gcb.15035), [Fredston *et al.* 2021](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15614))
 * Whether marine biogeographic boundaries limit ranges via dispersal limitation or post-dispersal selection, and the consequences for range shifts
-* How marine protected areas can be designed to accommodate future range-shifting species 
+* Advancing methods for ecological forecasting of range-shifting species, using both statistical and mechanistic modeling approaches 
+* How marine protected areas can be designed to accommodate future range-shifting species ([Fredston-Hermann *et al.* 2018](https://doi.org/10.1111/nyas.13597))
 
-## Biogeographical Forecasts 
+## Cumulative Impacts on Coastal Marine Ecosystems
 
-Modeling future species distributions with sufficient accuracy and precision to inform management decisions remains a core challenge of climate change biogeography. To assess the utility of incorporating ecological and demographic mechanisms, I've developed a spatially explicit population dynamic model to forecast short-term range shifts in marine species using a hierarchical Bayesian framework. My future research will build biogeographical forecasts for marine species in the California Current, leveraging historical climate variability and oceanographic data products to generate management-relevant predictions. 
+Climate change may transform ecosystems through not only the "press" of gradual warming but also the "pulse" of extreme events like heatwaves. I led research finding that demersal marine fish communities do not exhibit a consistent response to marine heatwaves ([Fredston *et al.* 2023](https://doi.org/10.1038/s41586-023-06449-y))--surprising, given the dramatic effects marine heatwaves have had in shallower ecosystems such as coral reefs and kelp forests. Next, I plan to explore the mechanisms driving ecological responses to marine heatwaves to understand why some heatwaves are much more damaging than others. 
 
-## Extreme Events 
+While my research program centers on climate change, I recognize that sustainable oceans require managing other human impacts, including runoff and fishing. Runoff -- the direct influx of sediments, nutrients, and other forms of pollution carried to coastal oceans from rivers -- directly threatens sensitive habitats that are crucial to biodiversity conservation, like coral reefs and seagrass beds. I have participated in numerous collaborations that worked to provide operational tools for land-sea management, particularly in data-limited settings ([Brown *et al.* 2019](https://doi.org/10.1111/1365-2664.13331), [Fredston-Hermann *et al.* 2016](https://doi.org/10.3389/fmars.2016.00273)).  
 
-We now know that climate change may transform ecosystems through not only the "press" of gradual warming, but also the "pulse" of extreme events like heatwaves. I am currently working to understand the effect of marine heatwaves on the biomass and community composition of temperate demersal marine fishes. Next, I plan to explore the mechanisms driving ecological responses to marine heatwaves to understand why some heatwaves are much more damaging than others. 
-
-## Managing Cumulative Impacts on Ocean Ecosystems
-
-While my research program centers on climate change, I recognize that sustainable oceans require managing other human impacts, including runoff and fishing. Runoff -- the direct influx of sediments, nutrients, and other forms of pollution carried to coastal oceans from rivers -- directly threatens sensitive habitats that are crucial to biodiversity conservation, like coral reefs and seagrass beds. I have participated in numerous collaborations that worked to provide operational tools for land-sea management, particularly in data-limited settings.  
-
-Fishing has the potential to provide protein with a low greenhouse gas footprint to billions of people, and to support livelihoods in countless coastal communities. Unfortunately, most fisheries in the world are associated with problematic social or ecological outcomes -- or both. I engage with fisheries both through primary research and through collaboration and outreach with stakeholders. Several of my ongoing projects will provide NOAA with operational tools for climate-ready fisheries management. 
-
+Well-managed fisheries could provide protein with a low greenhouse gas footprint to billions of people and support livelihoods in countless coastal communities. Unfortunately, many fisheries in the world are associated with problematic social or ecological outcomes -- or both. I engage with fisheries both through primary research and through collaboration and outreach with stakeholders. 
