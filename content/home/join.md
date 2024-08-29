@@ -28,8 +28,8 @@ I may also have additional funding for students and postdocs to join the lab. Al
 1. A short summary (one paragraph or less) of your background and career goals.
 1. A short summary (one paragraph or less) of why you want to come to UCSC, and to my lab specifically. 
 1. A short summary (one paragraph or less) of a project you are interested in working on. (This is not binding in any way, but will give me a sense of what you are excited about and how you think. You can alternatively send a research proposal you've written, like an NSF GRFP application.)
-1. Your current CV and (for prospective undergrad or grad students) unofficial transcripts. 
+1. Your current CV. Prospective graduate students should also attach unofficial transcripts and confirm *in the email text* that they meet the prerequisites for [Ocean Sciences at UCSC](https://catalog.ucsc.edu/Current/General-Catalog/Academic-Units/Physical-and-Biological-Sciences-Division/Ocean-Sciences). 
 
 This great [guide to emailing prospective PhD advisers](https://doi.org/10.1038/d41586-023-00786-8) by Dr. Hart at UNSW is worth reading, too (and if it's paywalled for you just let me know and I will send you a copy).
 
-I aim to respond to every email from a prospective lab member. However, I receive a ton of email every day, and occasionally I miss things. If you don't get a response (or out-of-office reply) from me within a week or two, please feel free to email again. 
+I aim to respond to every email from a prospective lab member that contains the above information. However, I receive a ton of email every day, and occasionally I miss things. If you don't get a response (or out-of-office reply) from me within a week or two, please feel free to email again. 
