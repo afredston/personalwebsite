@@ -268,14 +268,19 @@ enableGitInfo = false
   weight = 2
   
 [[menu.main]]
-  name = "Recorded Talks"
+  name = "Recorded talks"
   url = "#videos"
   weight = 4
 
 [[menu.main]]
-  name = "Join the Lab"
-  url = "#join"
+  name = "Lab members"
+  url = "#members"
   weight = 5
+  
+[[menu.main]]
+  name = "Join the lab"
+  url = "#join"
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
