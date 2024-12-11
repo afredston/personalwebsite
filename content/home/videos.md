@@ -14,6 +14,7 @@ subtitle = ""
 weight = 40
 
 +++
+[*Marine heatwaves and changes in biomass and composition of marine fish communities,* 2024 FISHGLOB virtual conferenc (with Malin Pinsky)](https://youtu.be/37vAXBZ0n7w?si=Yldi9eUkYMRQ8xKo)
 
 [*Process-based forecasting of near-term range shifts in marine species,* 2022 pre-recorded talk](https://youtu.be/B4aVoyzUWCI)
 
