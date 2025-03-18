@@ -6,11 +6,11 @@
 baseurl = "/"
 
 # Title of your site
-title = "Alexa Fredston"
+title = "The Fredston Lab"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2023"
+copyright = "&copy; 2025"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -260,11 +260,6 @@ enableGitInfo = false
 [[menu.main]]
   name = "Research"
   url = "#research"
-  weight = 3
-  
-[[menu.main]]
-  name = "Publications"
-  url = "#publications"
   weight = 2
   
 [[menu.main]]
@@ -275,7 +270,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Lab members"
   url = "#members"
-  weight = 5
+  weight = 3
   
 [[menu.main]]
   name = "Join the lab"
