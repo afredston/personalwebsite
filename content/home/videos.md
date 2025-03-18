@@ -11,10 +11,12 @@ title = "Recorded Talks"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 50
 
 +++
-[*Marine heatwaves and changes in biomass and composition of marine fish communities,* 2024 FISHGLOB virtual conferenc (with Malin Pinsky)](https://youtu.be/37vAXBZ0n7w?si=Yldi9eUkYMRQ8xKo)
+[*Species on the move!*, UCSC Slugs and Steins, 2025](https://www.youtube.com/watch?v=4Y-0w_ySBnE)
+
+[*Marine heatwaves and changes in biomass and composition of marine fish communities,* 2024 FISHGLOB virtual conference (with Malin Pinsky)](https://youtu.be/37vAXBZ0n7w?si=Yldi9eUkYMRQ8xKo)
 
 [*Process-based forecasting of near-term range shifts in marine species,* 2022 pre-recorded talk](https://youtu.be/B4aVoyzUWCI)
 

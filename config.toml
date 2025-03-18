@@ -277,11 +277,6 @@ enableGitInfo = false
   url = "#join"
   weight = 6
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 7
-  
 # Taxonomies.
 
 # Languages
