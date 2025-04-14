@@ -14,8 +14,9 @@ subtitle = ""
 weight = 60
 
 +++
+**In spring 2025, we're hiring a postdoc! You're welcome to read all about our work here, and to reach out with questions, but please submit applications through the [postdoc job ad](https://recruit.ucsc.edu/JPF01892) rather than sending Dr. Fredston an email.** 
 
-Thank you for your interest in joining the lab! UCSC is on the cutting edge of environmental and marine research. Strong support exists for interdisciplinary work and partnerships, via the [Institute for Marine Sciences](https://ims.ucsc.edu/), [NOAA's Southwest Fishery Science Center](https://www.fisheries.noaa.gov/about/southwest-fisheries-science-center), and more. Prospective graduate students are encouraged to explore the Ocean Sciences [prospective student page](https://oceansci.ucsc.edu/about/prosp-student-resources.html), including the [program prerequisites listed here](https://catalog.ucsc.edu/Current/General-Catalog/Academic-Units/Physical-and-Biological-Sciences-Division/Ocean-Sciences).
+Thank you for your interest in joining the lab! UCSC is on the cutting edge of environmental and marine research. Strong support exists for interdisciplinary work and partnerships, via the [Institute for Marine Sciences](https://ims.ucsc.edu/), [NOAA's Southwest Fishery Science Center](https://www.fisheries.noaa.gov/about/southwest-fisheries-science-center), and more. Prospective graduate students are encouraged to explore the Ocean Sciences [prospective student page](https://oceansci.ucsc.edu/about/prosp-student-resources.html), including the [program prerequisites listed here](https://catalog.ucsc.edu/Current/General-Catalog/Academic-Units/Physical-and-Biological-Sciences-Division/Ocean-Sciences). 
 
 The Fredston Lab is a computational group that develops and tests hypotheses about fundamental dynamics of marine ecosystems using theoretical models and Bayesian and frequentist statistics. Successful Fredston Lab members are likely to have experience and/or substantial interest in these methods. In other words, there is a lot of math, probability, and code involved, and most people in the group will not be collecting primary (field or lab) data. That said, we am open to a broad array of approaches to answering these questions, and committed to training early career researchers in quantitative methods. Regardless of technical background or research topic, everyone in the lab is committed about open science principles and practices. 
 
@@ -23,7 +24,7 @@ Dr. Fredston is always open to co-developing proposals for fellowships and other
 
 Many lists exist of national fellowships; you may find some relevant graduate fellowships on this [University of Miami page](https://graduate.rsmas.miami.edu/phd-and-ms-programs/ocean-sciences/national-fellowships-awards/index.html), some postdoc fellowships on this [University of Minnesota page](https://cbs.umn.edu/academics/departments/eeb/postdocs/opportunities), and both on [Dr. Jurgens' page](https://jurgenslab.com/grad-postdoc-funding/). Johns Hopkins University also maintains lists of [graduate](https://research.jhu.edu/rdt/funding-opportunities/graduate/) and [postdoctoral](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/) fellowships for all research fields. 
 
-Dr. Fredston sometimes has additional funding for students and postdocs to join the lab. All prospective lab members should email her directly. You should include the following in your email:
+Dr. Fredston sometimes has additional funding for students and postdocs to join the lab. All prospective lab members should email her directly, *unless you are applying for an advertised postdoc, in which case please use the UCSC job application website instead*. You should include the following in your email:
 
 1. A short summary (one paragraph or less) of your background and career goals.
 1. A short summary (one paragraph or less) of why you want to come to UCSC, and to the Fredston lab specifically. 
