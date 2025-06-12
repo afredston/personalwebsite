@@ -14,8 +14,6 @@ subtitle = ""
 weight = 60
 
 +++
-**In spring 2025, we're hiring a postdoc! You're welcome to read all about our work here, and to reach out with questions, but please submit applications through the [postdoc job ad](https://recruit.ucsc.edu/JPF01892) rather than sending Dr. Fredston an email.** 
-
 Thank you for your interest in joining the lab! UCSC is on the cutting edge of environmental and marine research. Strong support exists for interdisciplinary work and partnerships, via the [Institute for Marine Sciences](https://ims.ucsc.edu/), [NOAA's Southwest Fishery Science Center](https://www.fisheries.noaa.gov/about/southwest-fisheries-science-center), and more. Prospective graduate students are encouraged to explore the Ocean Sciences [prospective student page](https://oceansci.ucsc.edu/about/prosp-student-resources.html), including the [program prerequisites listed here](https://catalog.ucsc.edu/Current/General-Catalog/Academic-Units/Physical-and-Biological-Sciences-Division/Ocean-Sciences). 
 
 The Fredston Lab is a computational group that develops and tests hypotheses about fundamental dynamics of marine ecosystems using theoretical models and Bayesian and frequentist statistics. Successful Fredston Lab members are likely to have experience and/or substantial interest in these methods. In other words, there is a lot of math, probability, and code involved, and most people in the group will not be collecting primary (field or lab) data. That said, we am open to a broad array of approaches to answering these questions, and committed to training early career researchers in quantitative methods. Regardless of technical background or research topic, everyone in the lab is committed about open science principles and practices. 
