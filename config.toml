@@ -229,9 +229,9 @@ enableGitInfo = false
     link = "mailto:fredston@ucsc.edu"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "bluesky"
     icon_pack = "fa"
-    link = "//twitter.com/AFredston"
+    link = "https://bsky.app/profile/afredston.bsky.social"
 
   [[params.social]]
     icon = "google-scholar"
