@@ -1,0 +1,17 @@
+{{ $icon := .icon }}
+{{ $icon_pack := .icon_pack | default "fa" }}
+{{ $link := .link }}
+
+<a href="{{ $link | safeURL }}" target="_blank" rel="noopener">
+  {{ if eq $icon_pack "custom" }}
+    {{ $icon_path := printf "media/icons/brands/%s.svg" $icon }}
+    {{ $svg := resources.Get $icon_path }}
+    {{ with $svg }}
+      {{ .Content | safeHTML }}
+    {{ else }}
+      <i class="fa fa-question-circle"></i>
+    {{ end }}
+  {{ else }}
+    <i class="{{ $icon_pack }} fa-{{ $icon }}"></i>
+  {{ end }}
+</a>
