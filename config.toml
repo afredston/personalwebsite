@@ -229,7 +229,7 @@ enableGitInfo = false
     link = "mailto:fredston@ucsc.edu"
 
   [[params.social]]
-    icon = "bsky"
+    icon = "bluesky"
     icon_pack = "fa"
     link = "//bsky.app/profile/afredston.bsky.social"
 
