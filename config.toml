@@ -230,8 +230,8 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "bluesky"
-    icon_pack = "fa"
-    link = "//bsky.app/profile/afredston.bsky.social"
+    icon_pack = "custom"
+    link = "https://bsky.app/profile/afredston.bsky.social"
 
   [[params.social]]
     icon = "google-scholar"
