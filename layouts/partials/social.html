@@ -4,9 +4,10 @@
 
 <a href="{{ $link | safeURL }}" target="_blank" rel="noopener">
   {{ if eq $icon_pack "custom" }}
-    {{ $icon_path := printf "assets/media/icons/brands/%s.svg" $icon }}
+    {{ $icon_path := "assets/media/icons/brands/" | printf "%s%s.svg" $icon }}
     {{ readFile $icon_path | safeHTML }}
   {{ else }}
     <i class="{{ $icon_pack }} fa-{{ $icon }}"></i>
   {{ end }}
 </a>
+<span style="color:red;">OVERRIDE WORKED</span>
